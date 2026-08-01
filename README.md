@@ -86,33 +86,24 @@
   * *Topics:* Understanding structural dynamics.
   * *Readings:* Chapter 2.
 -->
-Systems of Linear Equations, Row Reduction and Echelon Forms, Matrix Operations and Matrix Inverses,
-Linear Dependence and Independence, Vector Spaces, Subspaces, Basis and Dimension.
-Orthogonality and Projections - Orthogonal Bases, Orthogonal Projections, Gram-Schmidt Orthogonalization,
-Least Squares Problems and Linear Models.
-Determinants and Their Properties, Rank of a Matrix,
-Applications of Linear Algebra in Information Technology and Data Representation.
+Introduction to Computers & Demo: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment, Computer hardware, Memory, CPU, Input/ Output devices, Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway; Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
 
 
-### 🔹 Unit 2: Eigen Analysis and Matrix Decomposition
-Eigenvalues and Eigenvectors, Characteristic Equations, Diagonalization of Matrices,
-Symmetric Matrices, Positive Definite Matrices, Similar Matrices and Linear Transformations. 
-Singular Value Decomposition (SVD), Low-Rank Approximation, Matrix Factorization Concepts, 
-Applications in Data Compression, Recommendation Systems, Image Representation and Machine Learning.
+### 🔹 Unit 2: 
+Professional Ethics for Computer Programmers; Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages); Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files) Debugging, Testing and Documentation (compiler error, linker error, and run-time error), Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
 
-### 🔹 Unit 3: Probability and Random Variables
-Events and Probability Spaces, Conditional Probability, Bayes’ Theorem, Independence of Events.
-Random Variables and Probability Distributions - Discrete and Continuous Random Variables, Probability Mass Functions, Probability Density Functions and Cumulative Distribution Functions. 
-Expectation, Variance, Covariance and Correlation, 
-Common Probability Distributions - Bernoulli, Binomial, Poisson, Uniform, Gaussian and Exponential Distributions. 
-Applications of Probability in Information Technology, AI and Data Analytics
+### 🔹 Unit 3: 
+Standard Input and Output, Character I/O, Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion, Selection Statements (Simple if, if/else, switch), Loop Structures (while, do/while, for, exit, break and continue)
  
-### 🔹 Unit 4: Stochastic Processes and Random Models
-Limit Theorems - Law of Large Numbers and Central Limit Theorem. 
-Stochastic Processes and Deviations, 
-Markov Chains, Transition Probability Matrices, Steady State Analysis.
-Random Walks and Their Applications, Introduction to Queueing and Network Models,
-Mathematical Foundations for AI, Machine Learning and Information Systems.
+### 🔹 Unit 4: 
+User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types, Storage class and Scope, Function call, Macros, Nested, and Recursive Functions, One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address, Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays. Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
+
+### 🔹 Unit 5: 
+Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, Pointers to Array Elements: 1-D Arrays, 2-D Arrays. An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
+
+Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures, Array of Structures, passing an array of structure to function, Nested Structures, Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue.
+
+Data Files: I/O Statements, reading/writing data files.
 
 ---
 ## 🗺️: Applications of Mathematics for IT Concepts in the real world
