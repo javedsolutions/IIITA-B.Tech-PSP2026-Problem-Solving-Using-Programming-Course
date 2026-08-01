@@ -45,11 +45,21 @@
    * 📗 Gilbert Strang, Introduction to Linear Algebra, 6th Edition, Wellesley-Cambridge Press, 2023.
    * 📗 Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability, 2nd Edition, Athena Scientific, 2008
 
+Engineering Problem Solving with C, 4th Ed. (2016) by Delores M. Etter, Pearson
+
+C: How to Program, 9th Edition (2023) by Paul Deitel and Harvey Deitel, Pearson
+
 2.  **Reference Books:**
    * :blue_book: Sheldon Axler, Linear Algebra Done Right, 3rd Edition, Springer, 2015.
    * :blue_book: Athanasios Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochas-tic Processes, 4th Edition, McGraw-Hill Education, 2002.
    * :blue_book: Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, Mathematics for MachineLearning, 1st Edition, Cambridge University Press, 2020.
 3.  💻**Software:** Access to GitHub and a modern code editor (e.g., VS Code).
+
+Computer Systems: A Programmer’s Perspective, 3rd Edition by Randal E Bryant and David R O’Hallaron, Pearson
+
+Problem Solving and Program Design in C, 8th Global Edition. by Jeri R. Hanly and Elliot B. Koffman, Pearson
+
+Programming in C, Brian Kernighan and Dennis Ritchie
 
 ---
 
