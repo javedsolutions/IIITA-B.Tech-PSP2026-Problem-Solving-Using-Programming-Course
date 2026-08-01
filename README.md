@@ -2,7 +2,7 @@
 ### :mortar_board: PSP - B.Tech IT Foundation Course for First Semester Students of IIIT Allahabad
 
 ### 📘 Course Code: Problem Solving Using Programming (PC-IT-PSP101) 
-**Semester:** Fall 2026 | **Credits:** 5.0  (L-T-P-S: 3-0-2-0)
+**Semester:** Fall 2026 | **Credits:** 5.0  (L-T-P-S: 3-0-4-0)
 
 **Class Hours:** Mon/Wed 🕗AM-🕙AM | **Room:** CC3, Room No. 5055 (Ground Floor)  
 
@@ -11,7 +11,7 @@
 ## 👥 Instructor Information
 * **Instructor:** Dr. Mohammed Javed
 * **Email:** javed@iiita.ac.in
-* **Teaching Assistants:** Mr. Apurba Chakraborty (rsi2024005@iiita.ac.in)
+* **Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
 <!--  * **Office:** Room 5159, Tech Tower
 * **Office Hours:** Tue/Thu 2:00 PM - 4:00 PM
 -->
@@ -42,24 +42,15 @@
 
 ## 📦 Required Materials
 1. **Primary Textbook:**
-   * 📗 Gilbert Strang, Introduction to Linear Algebra, 6th Edition, Wellesley-Cambridge Press, 2023.
-   * 📗 Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability, 2nd Edition, Athena Scientific, 2008
-
-Engineering Problem Solving with C, 4th Ed. (2016) by Delores M. Etter, Pearson
-
-C: How to Program, 9th Edition (2023) by Paul Deitel and Harvey Deitel, Pearson
+   * 📗 Engineering Problem Solving with C, 4th Ed. (2016) by Delores M. Etter, Pearson
+   * 📗 C: How to Program, 9th Edition (2023) by Paul Deitel and Harvey Deitel, Pearson
 
 2.  **Reference Books:**
-   * :blue_book: Sheldon Axler, Linear Algebra Done Right, 3rd Edition, Springer, 2015.
-   * :blue_book: Athanasios Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochas-tic Processes, 4th Edition, McGraw-Hill Education, 2002.
-   * :blue_book: Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, Mathematics for MachineLearning, 1st Edition, Cambridge University Press, 2020.
+   * :blue_book: Computer Systems: A Programmer’s Perspective, 3rd Edition by Randal E Bryant and David R O’Hallaron, Pearson
+   * :blue_book: Problem Solving and Program Design in C, 8th Global Edition. by Jeri R. Hanly and Elliot B. Koffman, Pearson
+   * :blue_book: Programming in C, Brian Kernighan and Dennis Ritchie
+     
 3.  💻**Software:** Access to GitHub and a modern code editor (e.g., VS Code).
-
-Computer Systems: A Programmer’s Perspective, 3rd Edition by Randal E Bryant and David R O’Hallaron, Pearson
-
-Problem Solving and Program Design in C, 8th Global Edition. by Jeri R. Hanly and Elliot B. Koffman, Pearson
-
-Programming in C, Brian Kernighan and Dennis Ritchie
 
 ---
 
@@ -86,7 +77,7 @@ Programming in C, Brian Kernighan and Dennis Ritchie
 
 ## 🗓️ Broad Course Contents Covered
 
-### 🔹 Unit 1: Linear Algebra and Matrix Theory
+### 🔹 Unit 1: Introduction to Computers & Hardware Demo:
 <!--
 * **Week 01: Introduction & Course Overview**
   * *Topics:* Expectations, setup, and core terminology.
@@ -96,31 +87,32 @@ Programming in C, Brian Kernighan and Dennis Ritchie
   * *Topics:* Understanding structural dynamics.
   * *Readings:* Chapter 2.
 -->
-Introduction to Computers & Demo: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment, Computer hardware, Memory, CPU, Input/ Output devices, Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway; Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
+History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment, Computer hardware, Memory, CPU, Input/ Output devices, 
+Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway;
+Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
 
+### 🔹 Unit 2: C Programming Basics
+Professional Ethics for Computer Programmers; 
+Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages); Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files) Debugging, Testing and Documentation (compiler error, linker error, and run-time error), Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
 
-### 🔹 Unit 2: 
-Professional Ethics for Computer Programmers; Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages); Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files) Debugging, Testing and Documentation (compiler error, linker error, and run-time error), Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
-
-### 🔹 Unit 3: 
+### 🔹 Unit 3: Input/Output, iterative and Conditional Statements
 Standard Input and Output, Character I/O, Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion, Selection Statements (Simple if, if/else, switch), Loop Structures (while, do/while, for, exit, break and continue)
  
-### 🔹 Unit 4: 
+### 🔹 Unit 4: Functions, Arrays 1D and 2D, Strings
 User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types, Storage class and Scope, Function call, Macros, Nested, and Recursive Functions, One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address, Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays. Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
 
-### 🔹 Unit 5: 
+### 🔹 Unit 5: Pointers and Structures
 Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, Pointers to Array Elements: 1-D Arrays, 2-D Arrays. An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
-
 Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures, Array of Structures, passing an array of structure to function, Nested Structures, Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue.
-
 Data Files: I/O Statements, reading/writing data files.
 
 ---
-## 🗺️: Applications of Mathematics for IT Concepts in the real world
+## 🗺️: Applications of Problem Solving skills using Programming in the real world
 
-|💻 |  Applications |Maths Concept | Implementation Link |
+|💻 |  Applications |PSP Concept | Implementation Link |
 |:--- | :--- | :---: | :--- |
-|1.| Image Compression | SVD-Singular Value Decomposition |  |
+|1.| Simple Calculator | Switch Statement |  |
+|2.| Game of Guessing numbers | For and if Statements |  |
 
 ---
 ## 📜 Course Policies
