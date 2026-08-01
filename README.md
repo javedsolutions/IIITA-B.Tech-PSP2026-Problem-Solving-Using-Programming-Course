@@ -17,21 +17,25 @@
 -->
 ---
 
-## 🎯 Course Objectives and Outcome
-To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The course introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
+## 🎯 Course Objectives
 
-* :o: Understand and apply the principles of linear algebra, matrix operations, vector
-spaces, and transformations in computational and IT applications.
-* :o: Analyze systems of equations, eigenvalue problems, orthogonality, and matrix
-decompositions for data representation and optimization problems.
-* :o: Apply probability theory, random variables, distributions, and expectation con-
-cepts for uncertainty modeling and data-driven systems.
-* :o: Analyze stochastic processes, Markov chains, and random walks, and utilize
-mathematical reasoning for AI, machine learning, and information technology applica-
-tions
+* :o: To make students aware of history and advancement in Computer Science.
+* :o: To make students aware of computers and their related ecosystem.
+* :o: To introduce the first programming language (in this case C language)
+* :o: To develop a problem-solving approach in students with a programmer’s perspective.
+* :o: To acquaint students with various engineering problems and a beginner’s approach to solving them
+
+
+## 🥅: Course Outcomes
+
+* 👍 Students will be aware of the basic computer science advancements and its history.
+* 👍 Students will be aware of the common computer science equipment, jargon, and ecosystem.
+* 👍 Students will have a thorough knowledge of the C programming language.
+* 👍 Students will be able to address a given problem in a structured manner similar to industry standards.
+* 👍 Students will be aware of the latest engineering problems and feel confident in handling them in the future.
 
 ### Prerequisites (if any :thumbsup:, otherwise :x:)
-:white_check_mark: Introduction to Programming
+:white_check_mark: Using Common Sense and Logical Reasoning
 :white_check_mark: Basic Mathematics
 
 ---
