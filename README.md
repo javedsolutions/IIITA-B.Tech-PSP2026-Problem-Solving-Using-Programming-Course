@@ -87,24 +87,39 @@
   * *Topics:* Understanding structural dynamics.
   * *Readings:* Chapter 2.
 -->
-History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment, Computer hardware, Memory, CPU, Input/ Output devices, 
-Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway;
-Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
+* :large_blue_circle: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment
+* :large_blue_circle: Computer hardware, Memory, CPU, Input/ Output devices
+* :large_blue_circle: Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
+* :large_blue_circle: Lab Demo: Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
 
 ### 🔹 Unit 2: C Programming Basics
-Professional Ethics for Computer Programmers; 
-Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages); Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files) Debugging, Testing and Documentation (compiler error, linker error, and run-time error), Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
+* :large_blue_circle: Professional Ethics for Computer Programmers;
+* :large_blue_circle: Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)
+* :large_blue_circle: Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)
+* :large_blue_circle: Debugging, Testing and Documentation (compiler error, linker error, and run-time error)
+* :large_blue_circle: Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
 
 ### 🔹 Unit 3: Input/Output, iterative and Conditional Statements
-Standard Input and Output, Character I/O, Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion, Selection Statements (Simple if, if/else, switch), Loop Structures (while, do/while, for, exit, break and continue)
+* :red_circle: Standard Input and Output, Character I/O,
+* :red_circle: Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion,
+* :red_circle: Selection Statements (Simple if, if/else, switch),
+* :red_circle: Loop Structures (while, do/while, for, exit, break and continue)
  
 ### 🔹 Unit 4: Functions, Arrays 1D and 2D, Strings
-User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types, Storage class and Scope, Function call, Macros, Nested, and Recursive Functions, One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address, Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays. Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
+* :red_circle: User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types,
+* :red_circle: Storage class and Scope, Function call, Macros, Nested, and Recursive Functions,
+* :red_circle: One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address,
+* :red_circle: Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays.
+* :red_circle: Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
 
 ### 🔹 Unit 5: Pointers and Structures
-Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, Pointers to Array Elements: 1-D Arrays, 2-D Arrays. An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
-Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures, Array of Structures, passing an array of structure to function, Nested Structures, Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue.
-Data Files: I/O Statements, reading/writing data files.
+* :red_circle: Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, 
+* :red_circle: Pointers to Array Elements: 1-D Arrays, 2-D Arrays.
+* :red_circle: An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
+* :red_circle: Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures,
+* :red_circle: Array of Structures, passing an array of structure to function, Nested Structures,
+* :red_circle: Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue.
+* :red_circle: Data Files: I/O Statements, reading/writing data files.
 
 ---
 ## 🗺️: Applications of Problem Solving skills using Programming in the real world
