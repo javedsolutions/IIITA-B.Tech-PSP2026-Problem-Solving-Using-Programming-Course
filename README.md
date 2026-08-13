@@ -1,7 +1,9 @@
- ## :classical_building: IIITA-B.Tech-PSP2026-Problem-Solving-Using-Programming-Course
-### :mortar_board: PSP - B.Tech IT Foundation Course for First Semester Students of IIIT Allahabad
+![IIIT Allahabad Campus](figures/IIITACampusPSP2026.png)
+
+## :classical_building: IIITA-B.Tech-PSP2026-Problem-Solving-Using-Programming-Course
+## :mortar_board: PSP - B.Tech IT Foundation Course for First Semester Students of IIIT Allahabad
 ---
-### 📘 Course Code: Problem Solving Using Programming (PC-IT-PSP101) 
+## 📘 Course Code: Problem Solving Using Programming (PC-IT-PSP101) 
 **Semester:** Fall 2026 | **Credits:** 5.0  (L-T-P-S: 3-0-4-0)
 
 **Lecture Hours:**  🙋‍♂️ 📆 WEDNESDAY 🕗 08:00 AM | 🙋‍♂️ 📆 THURSDAY 🕙 10:00 AM | **Room:** # 5006 (CC3, Ground Floor)
@@ -109,7 +111,7 @@
 |2.| Game of Guessing numbers | For and if Statements |  |
 ---
 
-## 📊 Tentative Grading Policy
+## 📊 Tentative Grading Policy 
 
 | Assessment | Weight | Due Date |
 | :--- | :---: | :--- |
@@ -120,7 +122,7 @@
 | Lab Exam 2 | 10% | Week 14 |
 | Final Exam | 40% | Exam Week |
 
-### Tentative Grading Scale - It may change based on performance of students
+### Tentative Grading Scale 🥇🥈🥉 - It may change based on performance of students
 * **A+:** 90% – 100%
 * **A:** 80% – 89%
 * **B+** 70% – 79%
