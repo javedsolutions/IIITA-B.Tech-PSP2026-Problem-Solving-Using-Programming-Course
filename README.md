@@ -41,42 +41,6 @@
 :white_check_mark: Basic Mathematics
 
 ---
-
-## 📦 Required Materials
-1. **Primary Textbook:**
-   * 📗 Engineering Problem Solving with C, 4th Ed. (2016) by Delores M. Etter, Pearson
-   * 📗 C: How to Program, 9th Edition (2023) by Paul Deitel and Harvey Deitel, Pearson
-
-2.  **Reference Books:**
-   * :blue_book: Computer Systems: A Programmer’s Perspective, 3rd Edition by Randal E Bryant and David R O’Hallaron, Pearson
-   * :blue_book: Problem Solving and Program Design in C, 8th Global Edition. by Jeri R. Hanly and Elliot B. Koffman, Pearson
-   * :blue_book: Programming in C, Brian Kernighan and Dennis Ritchie
-     
-3.  💻**Software:** Access to GitHub and a modern code editor (e.g., VS Code).
-
----
-
-## 📊 Tentative Grading Policy
-
-| Assessment | Weight | Due Date |
-| :--- | :---: | :--- |
-| Assignments (Lab) | 10% | Weekly Basis |
-| Attendance | 5% | Lab+Lectures |
-| Lab Exam 1 | 10% | Week 7 |
-| Midterm Exam | 25% | Week 8 |
-| Lab Exam 2 | 10% | Week 14 |
-| Final Exam | 40% | Exam Week |
-
-### Tentative Grading Scale - It may change based on performance of students
-* **A+:** 90% – 100%
-* **A:** 80% – 89%
-* **B+** 70% – 79%
-* **B:** 60% – 69%
-* **C:** 50% – 59%
-* **D/F:** Below 50% (May depend on the standard cut-off for F)
-
----
-
 ## 🗓️ Broad Course Contents Covered
 
 ### 🎯 Unit 1: Introduction to Computers & Hardware Demo: 🎯
@@ -124,12 +88,47 @@
 * :red_circle: Data Files: I/O Statements, reading/writing data files.
 
 ---
+## 📦 Required Materials
+1. **Primary Textbook:**
+   * 📗 Engineering Problem Solving with C, 4th Ed. (2016) by Delores M. Etter, Pearson
+   * 📗 C: How to Program, 9th Edition (2023) by Paul Deitel and Harvey Deitel, Pearson
+
+2.  **Reference Books:**
+   * :blue_book: Computer Systems: A Programmer’s Perspective, 3rd Edition by Randal E Bryant and David R O’Hallaron, Pearson
+   * :blue_book: Problem Solving and Program Design in C, 8th Global Edition. by Jeri R. Hanly and Elliot B. Koffman, Pearson
+   * :blue_book: Programming in C, Brian Kernighan and Dennis Ritchie
+     
+3.  💻**Software:** Access to GitHub and a modern code editor (e.g., VS Code).
+
+---
 ## 🗺️: Applications of Problem Solving skills using Programming in the real world
 
 |💻 |  Applications |PSP Concept | Implementation Link |
 |:--- | :--- | :---: | :--- |
 |1.| Simple Calculator | Switch Statement |  |
 |2.| Game of Guessing numbers | For and if Statements |  |
+---
+
+## 📊 Tentative Grading Policy
+
+| Assessment | Weight | Due Date |
+| :--- | :---: | :--- |
+| Assignments (Lab) | 10% | Weekly Basis |
+| Attendance | 5% | Lab+Lectures |
+| Lab Exam 1 | 10% | Week 7 |
+| Midterm Exam | 25% | Week 8 |
+| Lab Exam 2 | 10% | Week 14 |
+| Final Exam | 40% | Exam Week |
+
+### Tentative Grading Scale - It may change based on performance of students
+* **A+:** 90% – 100%
+* **A:** 80% – 89%
+* **B+** 70% – 79%
+* **B:** 60% – 69%
+* **C:** 50% – 59%
+* **D/F:** Below 50% (May depend on the standard cut-off for F)
+
+---
 
 ---
 ## 📜 Course Policies
