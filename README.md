@@ -4,7 +4,7 @@
 
 ## :mortar_board: PSP - B.Tech IT Foundation Course for First Semester Students of IIIT Allahabad
 
-## 📘 Course Code: Problem Solving Using Programming (PC-IT-PSP101) 
+### 📘 Course Code: Problem Solving Using Programming (PC-IT-PSP101) 
 **Semester:** Fall 2026 | **Credits:** 5.0  (L-T-P-S: 3-0-4-0)
 
 **Lecture Hours:**  🙋‍♂️ 📆 WEDNESDAY 🕗 08:00 AM | 🙋‍♂️ 📆 THURSDAY 🕙 10:00 AM | **Room:** # 5006 (CC3, Ground Floor)
