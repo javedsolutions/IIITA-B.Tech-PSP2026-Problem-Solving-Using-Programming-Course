@@ -77,7 +77,7 @@
 
 ## 🗓️ Broad Course Contents Covered
 
-### 🔹 Unit 1: Introduction to Computers & Hardware Demo:
+### 🎯 Unit 1: Introduction to Computers & Hardware Demo: 🎯
 <!--
 * **Week 01: Introduction & Course Overview**
   * *Topics:* Expectations, setup, and core terminology.
@@ -92,27 +92,27 @@
 * :large_blue_circle: Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
 * :large_blue_circle: Lab Demo: Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
 
-### 🔹 Unit 2: C Programming Basics
+### 🎯 Unit 2: C Programming Basics 🎯
 * :large_blue_circle: Professional Ethics for Computer Programmers;
 * :large_blue_circle: Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)
 * :large_blue_circle: Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)
 * :large_blue_circle: Debugging, Testing and Documentation (compiler error, linker error, and run-time error)
 * :large_blue_circle: Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
 
-### 🔹 Unit 3: Input/Output, iterative and Conditional Statements
+### 🎯 Unit 3: Input/Output, iterative and Conditional Statements 🎯
 * :red_circle: Standard Input and Output, Character I/O,
 * :red_circle: Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion,
 * :red_circle: Selection Statements (Simple if, if/else, switch),
 * :red_circle: Loop Structures (while, do/while, for, exit, break and continue)
  
-### 🔹 Unit 4: Functions, Arrays 1D and 2D, Strings
+### 🎯 Unit 4: Functions, Arrays 1D and 2D, Strings 🎯
 * :red_circle: User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types,
 * :red_circle: Storage class and Scope, Function call, Macros, Nested, and Recursive Functions,
 * :red_circle: One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address,
 * :red_circle: Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays.
 * :red_circle: Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
 
-### 🔹 Unit 5: Pointers and Structures
+### 🎯 Unit 5: Pointers and Structures 🎯
 * :red_circle: Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, 
 * :red_circle: Pointers to Array Elements: 1-D Arrays, 2-D Arrays.
 * :red_circle: An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
