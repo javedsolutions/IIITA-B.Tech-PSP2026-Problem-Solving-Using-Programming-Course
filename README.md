@@ -131,8 +131,6 @@
 * **D/F:** Below 50% (May depend on the standard cut-off for F)
 
 ---
-
----
 ## 📜 Course Policies
 
 ### 🛑 Academic Integrity
