@@ -9,7 +9,7 @@
 ---
 
 ## 👥 Instructor Information
-* **Instructor:** Dr. Mohammed Javed
+* **Edited by Instructor:** Dr. Mohammed Javed
 * **Email:** javed@iiita.ac.in
 * **Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
 <!--  * **Office:** Room 5159, Tech Tower
