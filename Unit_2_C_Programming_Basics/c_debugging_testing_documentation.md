@@ -1,5 +1,5 @@
 # :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
-## Unit 1: Introduction to Computers and Hardware
+## Unit 2: Programming Basics
 * ### Current Topic: Debugging Cases, Testing Cases and Documentation in C
 * **Purpose:** Introductory C Programming / Problem Solving - Compiler Errors, Linker Errors and Run-Time Errors
 ---
