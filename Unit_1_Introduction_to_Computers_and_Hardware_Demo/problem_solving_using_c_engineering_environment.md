@@ -1,13 +1,15 @@
-# Problem Solving Using C Program
-## History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, and the Changing Engineering Environment
-
-**Level:** Bachelor of Engineering  
-**Course context:** Problem Solving Using C  
-**Purpose:** Introduce students to the evolution of computing and connect that evolution with modern engineering practice, problem-solving, programming, and professional skills.
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 1: Introduction to Computers and Hardware
+* ### Current Topic: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, and the Changing Engineering Environment
+* **Purpose:** Introduce students to the evolution of computing and connect that evolution with modern engineering practice, problem-solving, programming, and professional skills.
 
 ---
-
-## Learning Objectives
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this material, students should be able to:
 
