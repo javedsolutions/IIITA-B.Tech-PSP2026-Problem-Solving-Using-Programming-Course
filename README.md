@@ -56,10 +56,10 @@
   * *Topics:* Understanding structural dynamics.
   * *Readings:* Chapter 2.
 -->
-* :large_blue_circle: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment
-* :large_blue_circle: Computer hardware, Memory, CPU, Input/ Output devices
-* :large_blue_circle: Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
-* :large_blue_circle: Lab Demo: Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software;
+* :large_blue_circle: [History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, Changing Engineering Environment](Unit_1_Introduction_to_Computers_and_Hardware_Demo/problem_solving_using_c_engineering_environment.md)
+* :large_blue_circle: [Computer hardware, Memory, CPU, Input/ Output devices](Unit_1_Introduction_to_Computers_and_Hardware_Demo/computer_hardware_memory_cpu_io.md)
+* :large_blue_circle: [Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway](Unit_1_Introduction_to_Computers_and_Hardware_Demo/computer_networks_problem_solving_using_c(1).md)
+* :large_blue_circle: Lab Demo: [Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software](Unit_1_Introduction_to_Computers_and_Hardware_Demo/operating_systems_problem_solving_using_c.md)
 
 ### 🎯 Unit 2: C Programming Basics 🎯
 * :large_blue_circle: Professional Ethics for Computer Programmers;
