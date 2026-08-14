@@ -69,9 +69,9 @@
 * :large_blue_circle: [Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments](Unit_2_C_Programming_Basics/c_constants_variables_expressions.md) 
 
 ### 🎯 Unit 3: Input/Output, iterative and Conditional Statements 🎯
-* :red_circle: [Standard Input and Output, Character I/O]()
-* :red_circle: [Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion]()
-* :red_circle: [Selection Statements (Simple if, if/else, switch)]()
+* :red_circle: [Standard Input and Output, Character I/O](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_standard_input_output_character_io.md)
+* :red_circle: [Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_operators_precedence_type_conversion.md)
+* :red_circle: [Selection Statements (Simple if, if/else, switch)](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_selection_statements.md)
 * :red_circle: [Loop Structures (while, do/while, for, exit, break and continue)]()
  
 ### 🎯 Unit 4: Functions, Arrays 1D and 2D, Strings 🎯
