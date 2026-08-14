@@ -1,12 +1,16 @@
-# Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements and Comments in C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering  
-**Audience:** First-year / introductory programming students
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 1: Introduction to Computers and Hardware
+* ### Current Topic: Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements and Comments in C
+* **Purpose:** introductory programming students
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this chapter, students should be able to:
 
