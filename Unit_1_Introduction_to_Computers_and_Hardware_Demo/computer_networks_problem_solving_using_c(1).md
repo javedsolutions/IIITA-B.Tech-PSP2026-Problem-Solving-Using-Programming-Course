@@ -1,13 +1,16 @@
-# Computer Networks and Problem Solving Using C
-## LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy and Gateway
-
-**Level:** Bachelor of Engineering  
-**Course:** Problem Solving Using C  
-**Purpose:** Introduce the fundamentals of computer networking and connect networking concepts with engineering problem solving and C programming.
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 1: Introduction to Computers and Hardware
+* ### Current Topic: OComputer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
+* **Purpose:** Introduce the fundamentals of computer networking and connect networking concepts with engineering problem solving and C programming.
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this material, students should be able to:
 
