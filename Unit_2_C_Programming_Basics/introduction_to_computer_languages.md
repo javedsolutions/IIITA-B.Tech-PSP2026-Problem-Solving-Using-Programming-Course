@@ -1,13 +1,16 @@
-# Introduction to Computer Languages
-## Machine Language, Assembly Language and High-Level Languages
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering  
-**Audience:** First-year / introductory engineering students
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 2: Programming Basics
+* ### Current Topic: Introduction to Computer Languages
+* **Purpose:** Introduce Machine Language, Assembly Language and High-Level Languages
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this unit, students should be able to:
 
