@@ -1,12 +1,16 @@
-# Professional Ethics for Computer Programmers
-## Reading Material for Bachelor of Engineering Students — Problem Solving Using C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 2: Programming Basics
+* ### Current Topic: Professional Ethics for Computer Programmers
+* **Purpose:** Introduce Professional Ethics to Programmers
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this unit, students should be able to:
 
