@@ -1,6 +1,6 @@
 ![IIIT Allahabad Campus](figures/IIITACampusPSP2026.png)
 
-# :classical_building: IIIT Allahabad B.Tech - Problem Solving Using Programming
+# :classical_building: IIITA B.Tech - Problem Solving Using Programming
 
 ## :mortar_board: PSP2026 - B.Tech IT Foundation Course for First Semester Students 
 
