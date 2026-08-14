@@ -1,13 +1,16 @@
-# Operating Systems, Installation/Uninstallation, Disk/Directory/File System and Application Software
-## Reading Material for Bachelor of Engineering Students — Problem Solving Using C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering  
-**Focus:** Understanding the operating environment in which C programs are developed, executed, stored and managed.
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 1: Introduction to Computers and Hardware
+* ### Current Topic: Operating Systems, Installation/Uninstallation, Disk/Directory/File System and Application Software
+* **Purpose:** Understanding the operating environment in which C programs are developed, executed, stored and managed.
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After completing this unit, students should be able to:
 
