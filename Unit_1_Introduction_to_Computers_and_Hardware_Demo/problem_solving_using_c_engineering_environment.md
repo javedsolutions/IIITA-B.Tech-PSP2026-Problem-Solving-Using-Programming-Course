@@ -1,3 +1,5 @@
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+
 # :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
 ## Unit 1: Introduction to Computers and Hardware
 * ### Current Topic: History of Computers, Engineering in the 21st Century, Recent Engineering Achievements, and the Changing Engineering Environment
