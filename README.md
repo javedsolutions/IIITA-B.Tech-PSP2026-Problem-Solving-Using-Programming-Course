@@ -62,11 +62,11 @@
 * :large_blue_circle: Lab Demo: [Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software](Unit_1_Introduction_to_Computers_and_Hardware_Demo/operating_systems_problem_solving_using_c.md)
 
 ### 🎯 Unit 2: C Programming Basics 🎯
-* :large_blue_circle: [Professional Ethics for Computer Programmers]()
-* :large_blue_circle: [Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)]()
-* :large_blue_circle: [Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)]()
-* :large_blue_circle: [Debugging, Testing and Documentation (compiler error, linker error, and run-time error)]()
-* :large_blue_circle: [Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments]() 
+* :large_blue_circle: [Professional Ethics for Computer Programmers](Unit_2_C_Programming_Basics/professional_ethics_for_computer_programmers.md)
+* :large_blue_circle: [Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)](Unit_2_C_Programming_Basics/introduction_to_computer_languages.md)
+* :large_blue_circle: [Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)](Unit_2_C_Programming_Basics/c_simple_program_structure.md)
+* :large_blue_circle: [Debugging, Testing and Documentation (compiler error, linker error, and run-time error)](Unit_2_C_Programming_Basics/c_debugging_testing_documentation.md)
+* :large_blue_circle: [Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments](Unit_2_C_Programming_Basics/c_constants_variables_expressions.md) 
 
 ### 🎯 Unit 3: Input/Output, iterative and Conditional Statements 🎯
 * :red_circle: [Standard Input and Output, Character I/O]()
