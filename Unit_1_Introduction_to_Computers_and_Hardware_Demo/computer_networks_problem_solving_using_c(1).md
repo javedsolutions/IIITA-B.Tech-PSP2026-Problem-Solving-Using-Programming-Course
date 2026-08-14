@@ -1,6 +1,6 @@
 # :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
 ## Unit 1: Introduction to Computers and Hardware
-* ### Current Topic: OComputer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
+* ### Current Topic: Computer Networks, LAN, File Server, WAN, WWW, GUI/CLI, Ethernet, Wi-Fi, Modem, Switches, Routers, IP Address, Proxy, Gateway
 * **Purpose:** Introduce the fundamentals of computer networking and connect networking concepts with engineering problem solving and C programming.
 ---
 ![Problem Solving Using Programming](figures/pspCoverPage.jpg)
