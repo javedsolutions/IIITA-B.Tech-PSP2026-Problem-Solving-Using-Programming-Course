@@ -62,17 +62,17 @@
 * :large_blue_circle: Lab Demo: [Operating Systems, Installation/Uninstallation, Disk/Directory/Files system, Application Software](Unit_1_Introduction_to_Computers_and_Hardware_Demo/operating_systems_problem_solving_using_c.md)
 
 ### 🎯 Unit 2: C Programming Basics 🎯
-* :large_blue_circle: Professional Ethics for Computer Programmers;
-* :large_blue_circle: Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)
-* :large_blue_circle: Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)
-* :large_blue_circle: Debugging, Testing and Documentation (compiler error, linker error, and run-time error)
-* :large_blue_circle: Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments. 
+* :large_blue_circle: [Professional Ethics for Computer Programmers]()
+* :large_blue_circle: [Introduction to Computer Languages (Machine Language, Assembly Language, High-Level languages)]()
+* :large_blue_circle: [Structure of a simple C program (preprocessor directive, #include and #define directives, header files and library files)]()
+* :large_blue_circle: [Debugging, Testing and Documentation (compiler error, linker error, and run-time error)]()
+* :large_blue_circle: [Constants and Variables, Basic Data Types, Assignment Statements, Expressions, Statements, and Comments]() 
 
 ### 🎯 Unit 3: Input/Output, iterative and Conditional Statements 🎯
-* :red_circle: Standard Input and Output, Character I/O,
-* :red_circle: Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion,
-* :red_circle: Selection Statements (Simple if, if/else, switch),
-* :red_circle: Loop Structures (while, do/while, for, exit, break and continue)
+* :red_circle: [Standard Input and Output, Character I/O]()
+* :red_circle: [Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion]()
+* :red_circle: [Selection Statements (Simple if, if/else, switch)]()
+* :red_circle: [Loop Structures (while, do/while, for, exit, break and continue)]()
  
 ### 🎯 Unit 4: Functions, Arrays 1D and 2D, Strings 🎯
 * :red_circle: User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types,
