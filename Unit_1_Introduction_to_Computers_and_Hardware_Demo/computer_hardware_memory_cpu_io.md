@@ -1,13 +1,16 @@
-# Computer Hardware, Memory, CPU and Input/Output Devices
-## Reading Material for Bachelor of Engineering Students — Problem Solving Using C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering  
-**Focus:** Understanding the hardware environment in which C programs execute.
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 1: Introduction to Computers and Hardware
+* ### Current Topic: Computer Hardware, Memory, CPU and Input/Output Devices
+* **Purpose:** Understanding the hardware environment in which C programs execute.
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this material, students should be able to:
 
