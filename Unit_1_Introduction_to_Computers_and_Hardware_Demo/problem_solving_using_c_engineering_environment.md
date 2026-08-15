@@ -673,7 +673,7 @@ A simplified engineering chain is:
 
 **Temperature sensor → ADC → C program → threshold comparison → actuator/alarm**
 
-A simple conceptual C program could be:
+A simple conceptual C program could be: (You can skip this if you are new to coding)
 
 ```c
 #include <stdio.h>
@@ -724,7 +724,7 @@ t =
 \frac{\text{Required volume}}{\text{Flow rate}}
 $$
 
-### C implementation
+### C implementation  (You can skip this if you are new to coding)
 
 ```c
 #include <stdio.h>
