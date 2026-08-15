@@ -1,12 +1,16 @@
-# One-Dimensional Arrays in C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering  
-**Topic:** One-Dimensional Arrays — Definition and Initialization, Computations and Output, Function Arguments, Passing Arguments by Value, and Passing Arguments by Address
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 4: Functions, Arrays 1D and 2D, Strings
+* ### Current Topic: One-Dimensional Arrays in C
+* **Purpose:** One-Dimensional Arrays — Definition and Initialization, Computations and Output, Function Arguments, Passing Arguments by Value, and Passing Arguments by Address
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this chapter, students will be able to:
 
