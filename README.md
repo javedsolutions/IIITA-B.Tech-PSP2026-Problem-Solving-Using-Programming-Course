@@ -110,6 +110,22 @@
 |:--- | :--- | :---: | :--- |
 |1.| Simple Calculator | Switch Statement |  |
 |2.| Game of Guessing numbers | For and if Statements |  |
+|3.| Student Result Management System | --- |---|
+|4.| Engineering Unit Converter | --- |---|
+|5.| Scientific Calculator | --- |---|
+|6.| Electricity Bill Calculator | --- |---|
+|7.| Employee Payroll System | --- |---|
+|8.| Library Management System | --- |---|
+|9.| Simple Banking System | --- |---|
+|10.| Inventory Management System | --- |---|
+|11.| Student Attendance System | --- |---|
+|12.| Engineering Data Logger | --- |---|
+|13.| Matrix Calculator | --- |---|
+|14.| Numerical Analysis Calculator | --- |---|
+|15.| Hospital Record System | --- |---|
+|16.| Vehicle Management System | --- |---|
+|17.| Simple Quiz Application | --- |---|
+
 ---
 
 ## 📊 Tentative Grading Policy 
