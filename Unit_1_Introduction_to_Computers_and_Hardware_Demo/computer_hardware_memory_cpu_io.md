@@ -500,7 +500,7 @@ Common examples include:
 - biometric sensor,
 - industrial sensor.
 
-Input devices convert information from the user or physical environment into signals/data that can be processed by the computer. citeturn0search0turn0search14
+Input devices convert information from the user or physical environment into signals/data that can be processed by the computer.
 
 ![Input and output devices](figures/05_input_output_devices.png)
 
