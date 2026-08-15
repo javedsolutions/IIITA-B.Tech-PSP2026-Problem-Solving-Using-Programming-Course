@@ -1,11 +1,16 @@
-# Pointers to Array Elements: 1-D and 2-D Arrays in C
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 5: Pointers and Structures
+* ### Current Topic: Pointers to Array Elements: 1-D and 2-D Arrays in C
+* **Purpose:** Introduce Pointers and Structures
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After studying this chapter, students will be able to:
 
