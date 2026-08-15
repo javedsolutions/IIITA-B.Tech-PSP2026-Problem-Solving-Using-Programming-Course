@@ -779,7 +779,7 @@ This is the essence of problem solving using C.
 
 Think of the modern engineer as working at the intersection of:
 
-\[
+$$
 \boxed{
 \text{Science}
 +
@@ -793,7 +793,7 @@ Think of the modern engineer as working at the intersection of:
 +
 \text{Ethics}
 }
-\]
+$$
 
 No single component is sufficient for many modern engineering challenges.
 
