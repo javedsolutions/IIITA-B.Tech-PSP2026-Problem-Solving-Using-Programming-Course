@@ -51,7 +51,7 @@ A computer system can be understood functionally through four major activities:
 
 > **Input → Processing → Storage → Output**
 
-A typical computer contains a CPU, memory, input/output devices and storage devices that work together. citeturn0search0turn0search13
+A typical computer contains a CPU, memory, input/output devices and storage devices that work together.
 
 ![Functional organization](figures/01_computer_functional_block_diagram.png)
 
@@ -109,7 +109,7 @@ A useful model for engineering students is:
 4. **Output devices**
 5. **Secondary storage**
 
-Input and output devices provide communication between the computer and the outside world. citeturn0search8turn0search14
+Input and output devices provide communication between the computer and the outside world. 
 
 ---
 
@@ -626,7 +626,7 @@ Examples include:
 - actuator,
 - motor controller.
 
-Output devices convert processed information into a form that can be interpreted or used externally. citeturn0search13turn0search14
+Output devices convert processed information into a form that can be interpreted or used externally. 
 
 ---
 
@@ -1418,7 +1418,7 @@ Understanding this relationship helps students move from simply **writing progra
 
 The ultimate objective is not to memorize hardware terminology or C syntax. It is to understand how:
 
-\[
+$$
 \boxed{
 \text{Problem}
 \rightarrow
@@ -1432,7 +1432,7 @@ The ultimate objective is not to memorize hardware terminology or C syntax. It i
 \rightarrow
 \text{Result}
 }
-\]
+$$
 
 This connection is fundamental to engineering problem solving.
 
@@ -1440,22 +1440,12 @@ This connection is fundamental to engineering problem solving.
 
 # 35. References and Further Reading
 
-1. SATHEE / IIT Kanpur, **Computer System** — introductory material covering CPU, memory, input/output and system buses. citeturn0search0
-2. University of Rhode Island, **How Computers Work: The CPU and Memory** — introductory discussion of CPU, memory, buses and I/O. citeturn0search1
-3. NIOS, **Computer Fundamentals** — introductory treatment of computer components, input, processing, storage and output. citeturn0search13
-4. Engineering LibreTexts, **Input and Output** — discussion of I/O as communication between an information-processing system and the outside world. citeturn0search8
+1. SATHEE / IIT Kanpur, **Computer System** — introductory material covering CPU, memory, input/output and system buses. 
+2. University of Rhode Island, **How Computers Work: The CPU and Memory** — introductory discussion of CPU, memory, buses and I/O.
+3. NIOS, **Computer Fundamentals** — introductory treatment of computer components, input, processing, storage and output. 
+4. Engineering LibreTexts, **Input and Output** — discussion of I/O as communication between an information-processing system and the outside world. 
 5. Standard C programming and computer organization textbooks for further study of pointers, memory, CPU organization, I/O and system architecture.
 
 ---
-
-## Instructor Note
-
-A useful teaching sequence for this topic is:
-
-**Hardware overview → CPU → Memory → I/O → C variables → `scanf()` → `printf()` → pointers → arrays → hardware-oriented mini project**
-
-Students should be encouraged to ask not only **“What does this C statement do?”** but also:
-
-> **“What happens inside the computer when this statement executes?”**
 
 That question helps connect introductory programming with computer architecture and engineering problem solving.
