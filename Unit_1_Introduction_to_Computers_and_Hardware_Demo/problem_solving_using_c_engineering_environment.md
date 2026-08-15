@@ -364,7 +364,7 @@ P = VI
 3. Calculate `P = V * I`.
 4. Display power.
 
-### Step 5: Implement in C
+### Step 5: Implement in C (if you already know Coding, otherwise you can skip this part)
 
 ```c
 #include <stdio.h>
@@ -489,7 +489,7 @@ Robots and drones combine:
 - AI,
 - and safety systems.
 
-Recent Indian engineering activity illustrates this direction. In August 2026, L&T reported expansion plans for its precision-engineering and unmanned-aerial-systems activities and showcased indigenous drone technologies. citeturn0news23
+Recent Indian engineering activity illustrates this direction. In August 2026, L&T reported expansion plans for its precision-engineering and unmanned-aerial-systems activities and showcased indigenous drone technologies. [^1]
 
 The lesson for students is that a modern engineering problem is often **multidisciplinary and software-defined**.
 
@@ -946,11 +946,11 @@ That habit remains valuable even when the technology changes.
 
 # 20. References and Further Reading
 
-1. Damaja, I. W., Shaikh, P. W., & Mouftah, H. T. *Distinctive landmarks in the history of computing and engineering: the past, the present, and the future*. International Journal for the History of Engineering & Technology, 2024.
-2. National Academies of Sciences, Engineering, and Medicine. *A 21st Century Cyber-Physical Systems Education*.
-3. IEEE Technology Navigator. Materials on computer architecture, operating systems, and computing systems.
-4. General historical references on the development of mechanical calculators, electronic computers, transistors, integrated circuits, and microprocessors.
-5. Recent engineering reporting and institutional material on AI-assisted engineering, drones, robotics, aerospace, energy, and advanced manufacturing.
+[^1]: Damaja, I. W., Shaikh, P. W., & Mouftah, H. T. *Distinctive landmarks in the history of computing and engineering: the past, the present, and the future*. International Journal for the History of Engineering & Technology, 2024.
+[^2]. National Academies of Sciences, Engineering, and Medicine. *A 21st Century Cyber-Physical Systems Education*.
+[^3]. IEEE Technology Navigator. Materials on computer architecture, operating systems, and computing systems.
+[^4]. General historical references on the development of mechanical calculators, electronic computers, transistors, integrated circuits, and microprocessors.
+[^5]. Recent engineering reporting and institutional material on AI-assisted engineering, drones, robotics, aerospace, energy, and advanced manufacturing.
 
 ---
 
