@@ -1,11 +1,16 @@
-# Array of Pointers, Pointers as Function Arguments, Function Returning Pointers, and Pointers and Strings
-
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering
-
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 5: Pointers and Structures
+* ### Current Topic: Array of Pointers, Pointers as Function Arguments, Function Returning Pointers, and Pointers and Strings
+* **Purpose:** Introduce Pointers
 ---
-
-## Learning Objectives
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
 After completing this chapter, students will be able to:
 
