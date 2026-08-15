@@ -1922,10 +1922,10 @@ That mindset is essential for reliable engineering software.
 
 # References and Further Reading
 
-1. **Key Concepts of Computer Studies — Basic Operations of an Operating System.** Covers OS functions, files, folders and basic file management concepts. citeturn0search0
-2. **Carnegie Mellon University — Introduction to Operating Systems.** Provides foundational explanations of hierarchical file systems, root directories, paths and working directories. citeturn0search1
-3. **Apple Developer Documentation — File System Basics.** Explains file systems, persistent storage, directories and application/system data. citeturn0search3
-4. **INFLIBNET — File System Interface.** Covers files, directories, file systems, storage blocks and file operations. citeturn0search9
-5. **Workforce LibreTexts — Operating System.** Provides introductory treatment of disk access, file systems, files and directory trees. citeturn0search11
+1. **Key Concepts of Computer Studies — Basic Operations of an Operating System.** Covers OS functions, files, folders and basic file management concepts.
+2. **Carnegie Mellon University — Introduction to Operating Systems.** Provides foundational explanations of hierarchical file systems, root directories, paths and working directories.
+3. **Apple Developer Documentation — File System Basics.** Explains file systems, persistent storage, directories and application/system data.
+4. **INFLIBNET — File System Interface.** Covers files, directories, file systems, storage blocks and file operations.
+5. **Workforce LibreTexts — Operating System.** Provides introductory treatment of disk access, file systems, files and directory trees.
 
 ---
