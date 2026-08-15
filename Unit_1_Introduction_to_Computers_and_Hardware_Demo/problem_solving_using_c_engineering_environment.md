@@ -714,15 +714,15 @@ A water tank contains a known quantity of water. A pump fills the tank at a spec
 
 ### Model
 
-\[
+$$
 \text{Required volume} =
 V_{\text{desired}} - V_{\text{current}}
-\]
+$$
 
-\[
+$$
 t =
 \frac{\text{Required volume}}{\text{Flow rate}}
-\]
+$$
 
 ### C implementation
 
