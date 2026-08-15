@@ -1,9 +1,17 @@
-# Loop Structures in C
+# :classical_building: Problem Solving Using Programming - B.Tech-IT, IIIT Allahabad
+## Unit 3: Input-Output, Iterative and Conditional Statements
+* ### Current Topic: Loop Structures in C
+* **Purpose:** Introduce Basic Programming entities
+---
+![Problem Solving Using Programming](figures/pspCoverPage.jpg)
+---
+## 👥 Instructor Information
+* **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Email:** javed@iiita.ac.in
+* **Senior Teaching Assistants:** Mr. Subrata Pramanik (pmm2024003@iiita.ac.in)
+---
+## 🎯 Learning Objectives
 
-**Course:** Problem Solving Using C  
-**Level:** Bachelor of Engineering
-
-## Learning Objectives
 - Explain iteration and repetition.
 - Use `while`, `do/while`, and `for`.
 - Use `break`, `continue`, and `exit()`.
