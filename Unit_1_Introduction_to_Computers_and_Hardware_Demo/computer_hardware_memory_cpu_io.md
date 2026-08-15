@@ -1446,5 +1446,3 @@ This connection is fundamental to engineering problem solving.
 5. Standard C programming and computer organization textbooks for further study of pointers, memory, CPU organization, I/O and system architecture.
 
 ---
-
-That question helps connect introductory programming with computer architecture and engineering problem solving.
