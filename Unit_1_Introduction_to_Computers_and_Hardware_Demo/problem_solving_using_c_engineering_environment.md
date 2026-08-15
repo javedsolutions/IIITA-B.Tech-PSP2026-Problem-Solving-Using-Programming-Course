@@ -499,7 +499,7 @@ The lesson for students is that a modern engineering problem is often **multidis
 
 A particularly important recent trend is the integration of AI with physical testing and engineering simulation.
 
-For example, a 2026 University of Cambridge initiative described a high-pressure wind tunnel intended to accelerate aerospace and other industrial development by combining rapid physical testing with AI-based data use. citeturn0news45
+For example, a 2026 University of Cambridge initiative described a high-pressure wind tunnel intended to accelerate aerospace and other industrial development by combining rapid physical testing with AI-based data use. [^2]
 
 This represents an important shift:
 
@@ -521,7 +521,7 @@ Modern engineering education increasingly emphasizes:
 - resilience,
 - data fluency,
 - human-centered design,
-- and human-machine interaction. citeturn0search1
+- and human-machine interaction. [^3]
 
 This means an engineering graduate cannot rely only on the technologies learned during the first year of college.
 
@@ -947,18 +947,13 @@ That habit remains valuable even when the technology changes.
 # 20. References and Further Reading
 
 [^1]: Damaja, I. W., Shaikh, P. W., & Mouftah, H. T. *Distinctive landmarks in the history of computing and engineering: the past, the present, and the future*. International Journal for the History of Engineering & Technology, 2024.
-[^2]. National Academies of Sciences, Engineering, and Medicine. *A 21st Century Cyber-Physical Systems Education*.
-[^3]. IEEE Technology Navigator. Materials on computer architecture, operating systems, and computing systems.
-[^4]. General historical references on the development of mechanical calculators, electronic computers, transistors, integrated circuits, and microprocessors.
-[^5]. Recent engineering reporting and institutional material on AI-assisted engineering, drones, robotics, aerospace, energy, and advanced manufacturing.
+
+[^2]: National Academies of Sciences, Engineering, and Medicine. *A 21st Century Cyber-Physical Systems Education*.
+
+[^3]: IEEE Technology Navigator. Materials on computer architecture, operating systems, and computing systems.
+
+[^4]: General historical references on the development of mechanical calculators, electronic computers, transistors, integrated circuits, and microprocessors.
+
+[^5]: Recent engineering reporting and institutional material on AI-assisted engineering, drones, robotics, aerospace, energy, and advanced manufacturing.
 
 ---
-
-## Instructor Note
-
-This material can be used as an introductory unit before students begin detailed C programming. The emphasis should be on **engineering thinking**, not memorization of dates.
-
-A useful teaching sequence is:
-
-**History → Engineering change → Problem definition → Algorithm → Flowchart → C implementation → Testing → Engineering ethics**
-
