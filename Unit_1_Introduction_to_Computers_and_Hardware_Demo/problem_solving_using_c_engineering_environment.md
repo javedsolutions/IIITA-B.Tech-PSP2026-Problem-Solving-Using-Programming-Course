@@ -123,7 +123,6 @@ The term **generation of computers** is a simplified educational framework used 
 
 ![Computer generations](figures/02_computer_generations.png)
 
-**Figure 1. How successive computing generations changed engineering constraints.**
 
 ## 4.1 First Generation: Vacuum Tubes
 
@@ -250,7 +249,6 @@ Engineering in the 21st century is increasingly characterized by convergence.
 
 ![Engineering convergence](figures/04_engineering_convergence.png)
 
-**Figure 2. Converging technologies reshape engineering practice.**
 
 ## 6.1 Multidisciplinary Engineering
 
@@ -329,7 +327,6 @@ C is particularly relevant to:
 
 ![Problem-solving cycle](figures/03_problem_solving_cycle.png)
 
-**Figure 3. Iterative problem-solving cycle for C programming.**
 
 A practical process is:
 
@@ -534,7 +531,6 @@ This means an engineering graduate cannot rely only on the technologies learned 
 
 ![Changing engineering environment](figures/05_changing_engineering_environment.png)
 
-**Figure 4. Changing engineering environment (conceptual comparison).**
 
 ## 10.1 From Physical Prototypes to Digital Prototypes
 
@@ -671,8 +667,6 @@ C remains particularly valuable when students need to understand the relationshi
 
 ![C problem-solving bridge](figures/07_c_problem_solving_bridge.png)
 
-**Figure 5. From engineering problem to a tested C solution.**
-
 Consider an embedded temperature-monitoring system.
 
 A simplified engineering chain is:
@@ -782,9 +776,6 @@ This is the essence of problem solving using C.
 
 # 14. A Useful Mental Model for 21st-Century Engineers
 
-![Recent engineering achievement areas](figures/06_recent_engineering_achievements.png)
-
-**Figure 6. Examples of recent engineering achievement areas.**
 
 Think of the modern engineer as working at the intersection of:
 
