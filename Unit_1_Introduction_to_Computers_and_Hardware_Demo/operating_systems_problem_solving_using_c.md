@@ -445,7 +445,7 @@ Common storage technologies include:
 
 The operating system provides a logical representation of storage so users and applications can work with files rather than physical storage blocks.
 
-A file system maps logical files and directories to physical or logical storage resources. citeturn0search3turn0search9
+A file system maps logical files and directories to physical or logical storage resources.
 
 ---
 
@@ -493,7 +493,7 @@ A file system manages concepts such as:
 - file access,
 - directory hierarchy.
 
-Different operating systems and storage environments support different file-system formats. For example, APFS is used by current Apple operating systems, while other platforms commonly use formats such as NTFS, exFAT, ext4 and others. citeturn0search3
+Different operating systems and storage environments support different file-system formats. For example, APFS is used by current Apple operating systems, while other platforms commonly use formats such as NTFS, exFAT, ext4 and others.
 
 ---
 
@@ -565,7 +565,7 @@ Engineering/
     └── project_report.pdf
 ```
 
-Directories form a hierarchy or tree. citeturn0search0turn0search1
+Directories form a hierarchy or tree. 
 
 ---
 
@@ -611,7 +611,7 @@ On Windows, a volume may have a root such as:
 C:\
 ```
 
-The exact path conventions depend on the operating system. citeturn0search1turn0search10
+The exact path conventions depend on the operating system. 
 
 ---
 
@@ -1929,31 +1929,3 @@ That mindset is essential for reliable engineering software.
 5. **Workforce LibreTexts — Operating System.** Provides introductory treatment of disk access, file systems, files and directory trees. citeturn0search11
 
 ---
-
-## Suggested Teaching Sequence
-
-```text
-Operating System
-       ↓
-System vs Application Software
-       ↓
-Installation / Uninstallation
-       ↓
-Disk and Storage
-       ↓
-Partitions
-       ↓
-File Systems
-       ↓
-Directories and Paths
-       ↓
-Files and Permissions
-       ↓
-C File Handling
-       ↓
-Engineering Data Processing
-       ↓
-Mini Project
-```
-
-This sequence provides a natural bridge from **basic computer awareness to practical C programming and engineering problem solving**.
