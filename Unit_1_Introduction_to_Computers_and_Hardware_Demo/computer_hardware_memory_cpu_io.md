@@ -132,7 +132,6 @@ The CPU commonly includes:
 - **Registers**
 - interfaces to cache and memory
 
-citeturn0search0turn0search1
 
 ![CPU organization](figures/02_cpu_internal_organization.png)
 
