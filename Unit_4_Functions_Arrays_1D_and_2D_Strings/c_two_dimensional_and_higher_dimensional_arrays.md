@@ -3,9 +3,7 @@
 * ### Current Topic: Two-Dimensional and Higher-Dimensional Arrays in C
 * **Purpose:** Two-Dimensional Arrays — Definition and Initialization, Computations and Output, Function Arguments, Passing Arguments by Value, and Passing Arguments by Address
 ---
-
 ![Problem Solving Using Programming](figures/pspCoverPage.jpg)
-
 ---
 ## 👥 Instructor Information
 * **Edited by Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
