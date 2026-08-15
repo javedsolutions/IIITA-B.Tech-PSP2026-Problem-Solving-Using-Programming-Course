@@ -72,23 +72,23 @@
 * :red_circle: [Standard Input and Output, Character I/O](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_standard_input_output_character_io.md)
 * :red_circle: [Operators (Relational, Logical, Boolean, Ternary, Bitwise, Conditional), Precedence and Associativity, implicit and explicit type conversion](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_operators_precedence_type_conversion.md)
 * :red_circle: [Selection Statements (Simple if, if/else, switch)](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_selection_statements.md)
-* :red_circle: [Loop Structures (while, do/while, for, exit, break and continue)]()
+* :red_circle: [Loop Structures (while, do/while, for, exit, break and continue)](Unit_3_Input_Output_iterative_and_Conditional_Statements/c_loop_structures.md)
  
 ### 🎯 Unit 4: Functions, Arrays 1D and 2D, Strings 🎯
-* :red_circle: User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types,
-* :red_circle: Storage class and Scope, Function call, Macros, Nested, and Recursive Functions,
-* :red_circle: One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address,
-* :red_circle: Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays.
-* :red_circle: Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare).
+* :red_circle: [User-defined functions, function definition, prototype, parameter list, Function Arguments and Return Types](Unit_4_Functions_Arrays_1D_and_2D_Strings/c_user_defined_functions.md)
+* :red_circle: [Storage class and Scope, Function call, Macros, Nested, and Recursive Functions](Unit_4_Functions_Arrays_1D_and_2D_Strings/c_storage_scope_macros_functions.md)
+* :red_circle: [One Dimensional arrays (Definition and Initialization, Computations, and Output, Function Arguments), Passing Arguments by Value, Passing Arguments by Address](Unit_4_Functions_Arrays_1D_and_2D_Strings/c_one_dimensional_arrays.md)
+* :red_circle: [Two Dimensional Arrays (Definition and Initialization, Computations, and Output, Function Arguments), Higher dimensional Arrays](Unit_4_Functions_Arrays_1D_and_2D_Strings/c_two_dimensional_and_higher_dimensional_arrays.md)
+* :red_circle: [Character Strings, String Definition and I/O, Null Character, String Library Functions (String length, string copy, string concatenation, string compare)](Unit_4_Functions_Arrays_1D_and_2D_Strings/c_character_strings.md)
 
 ### 🎯 Unit 5: Pointers and Structures 🎯
-* :red_circle: Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers, 
-* :red_circle: Pointers to Array Elements: 1-D Arrays, 2-D Arrays.
-* :red_circle: An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings.
-* :red_circle: Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures,
-* :red_circle: Array of Structures, passing an array of structure to function, Nested Structures,
-* :red_circle: Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue.
-* :red_circle: Data Files: I/O Statements, reading/writing data files.
+* :red_circle: [Pointer: Addresses and Pointers, Address Operator, Pointer Assignment, Address Arithmetic, Chain of Pointers](Unit_5_Pointers_and_Structures/c_pointers_addresses_and_pointer_operations.md) 
+* :red_circle: [Pointers to Array Elements: 1-D Arrays, 2-D Arrays](Unit_5_Pointers_and_Structures/c_pointers_to_array_elements.md)
+* :red_circle: [An array of Pointers, Pointers as Function Arguments, Function Returning pointers, Pointers, and Strings](Unit_5_Pointers_and_Structures/c_array_of_pointers_function_pointers_strings.md)
+* :red_circle: [Structures definition and initialization, Input and Output, Structures as Function Arguments, Functions returning Structures](Unit_5_Pointers_and_Structures/c_structures_definition_initialization_io_functions.md)
+* :red_circle: [Array of Structures, passing an array of structure to function, Nested Structures](Unit_5_Pointers_and_Structures/c_array_of_structures_nested_structures.md)
+* :red_circle: [Unions, Pointer to Structure, Dynamic Memory Allocation (calloc(), malloc(), realloc(), free())Linked List, Stack, Queue](Unit_5_Pointers_and_Structures/c_unions_pointers_dynamic_memory_linked_lists_stacks_queues.md)
+* :red_circle: [Data Files: I/O Statements, reading/writing data files](Unit_5_Pointers_and_Structures/c_data_files_io_reading_writing.md)
 
 ---
 ## 📦 Required Materials
