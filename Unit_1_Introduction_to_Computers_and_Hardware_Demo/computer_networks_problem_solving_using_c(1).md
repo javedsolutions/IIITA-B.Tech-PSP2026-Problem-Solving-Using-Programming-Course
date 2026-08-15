@@ -48,7 +48,7 @@ A network may connect:
 - cloud services,
 - and other network-enabled devices.
 
-Modern networks use devices such as switches, routers and wireless access points to connect systems and move information between networks. citeturn0search0turn0search2
+Modern networks use devices such as switches, routers and wireless access points to connect systems and move information between networks. 
 
 ![Computer network](figures/01_network_overview.png)
 
@@ -142,7 +142,7 @@ A **Local Area Network (LAN)** connects devices within a limited geographic area
 - school,
 - or campus.
 
-A LAN can contain both wired and wireless devices. citeturn0search4turn0search2
+A LAN can contain both wired and wireless devices. 
 
 Examples:
 
@@ -193,7 +193,7 @@ Building B
 Data Center
 ```
 
-Organizations may use WANs to connect offices, remote users, suppliers and data centers. WAN connectivity can use technologies such as leased lines, cellular connections and satellite links. citeturn0search2
+Organizations may use WANs to connect offices, remote users, suppliers and data centers. WAN connectivity can use technologies such as leased lines, cellular connections and satellite links.
 
 ![LAN and WAN](figures/02_lan_wan.png)
 
@@ -377,7 +377,7 @@ CLI → compiler / debugger / build tools
 
 **Ethernet** is a widely used networking technology, especially for wired LANs.
 
-Ethernet is standardized by **IEEE 802.3**. It defines technologies for communication over media such as twisted-pair copper and fiber. citeturn0search7turn0search12
+Ethernet is standardized by **IEEE 802.3**. It defines technologies for communication over media such as twisted-pair copper and fiber. 
 
 Typical Ethernet connection:
 
@@ -419,7 +419,7 @@ Wireless Access Point
     Internet
 ```
 
-Wi-Fi provides mobility and avoids a physical cable between the end device and access point. citeturn0search7turn0search6
+Wi-Fi provides mobility and avoids a physical cable between the end device and access point.
 
 ## Ethernet vs Wi-Fi
 
@@ -476,7 +476,7 @@ PC 2 ─┼── Switch ── Server
 PC 3 ─┘
 ```
 
-Switches commonly use **MAC addresses** for Layer 2 forwarding. citeturn0search2turn0search17
+Switches commonly use **MAC addresses** for Layer 2 forwarding.
 
 ![Network device roles](figures/04_network_devices_roles.png)
 
@@ -510,7 +510,7 @@ WAN / Internet
 LAN 2
 ```
 
-Routers use network-layer information such as destination IP addresses and routing information to determine where packets should go. citeturn0search2turn0search17
+Routers use network-layer information such as destination IP addresses and routing information to determine where packets should go. 
 
 ### Simple analogy
 
@@ -650,13 +650,13 @@ IP address
 → Network-to-network delivery
 ```
 
-Switches commonly use MAC addresses, while routers use IP addressing to forward packets between networks. citeturn0search2turn0search17
+Switches commonly use MAC addresses, while routers use IP addressing to forward packets between networks.
 
 ---
 
 # 19. Gateway
 
-A **gateway** connects networks and, depending on its role, can translate between protocols or network environments. Modern network equipment often combines gateway functions with routing functions. citeturn0search16
+A **gateway** connects networks and, depending on its role, can translate between protocols or network environments. Modern network equipment often combines gateway functions with routing functions.
 
 In a typical home network:
 
@@ -809,7 +809,7 @@ On Linux/UNIX systems, the **sockets API** provides a standard programming inter
 - `send()`
 - `recv()`
 
-Network programming courses commonly teach these APIs for Internet-domain stream and datagram communication. citeturn0search1turn0search3
+Network programming courses commonly teach these APIs for Internet-domain stream and datagram communication.
 
 ![C client-server model](figures/08_c_client_server.png)
 
@@ -933,7 +933,7 @@ int main(void) {
 
 This is an educational example. A production network program must perform careful error checking, handle partial I/O, manage concurrent clients where required, validate inputs, and consider security.
 
-The Linux/UNIX sockets model includes calls such as `socket()`, `bind()`, `listen()`, `accept()`, `connect()` and stream I/O operations. citeturn0search3turn0search5
+The Linux/UNIX sockets model includes calls such as `socket()`, `bind()`, `listen()`, `accept()`, `connect()` and stream I/O operations.
 
 ---
 
@@ -1306,7 +1306,7 @@ Students should avoid assuming that a network is trustworthy merely because it i
 
 ### Switch vs Router
 
-A switch primarily connects devices within a local network; a router connects/forwards traffic between networks. citeturn0search0turn0search2
+A switch primarily connects devices within a local network; a router connects/forwards traffic between networks.
 
 ### Internet vs WWW
 
@@ -1322,7 +1322,7 @@ A modem provides access to a communication service/medium; a router forwards tra
 
 ### Proxy vs Gateway
 
-A proxy acts as an intermediary for particular services or requests; a gateway connects different network environments and may perform translation. citeturn0search16
+A proxy acts as an intermediary for particular services or requests; a gateway connects different network environments and may perform translation.
 
 ### GUI vs CLI
 
@@ -1609,22 +1609,10 @@ Learning networking therefore extends programming from a single computer to **co
 
 # 46. References and Further Reading
 
-1. Cisco, **What is Computer Networking?** — networking fundamentals, LAN, WAN, switches, routers, IP and network architecture. citeturn0search2
-2. Cisco, **What is a LAN?** — LAN definition and components. citeturn0search4
-3. Cisco, **What is Ethernet?** — Ethernet, IEEE 802.3, MAC addressing and relationship with Wi-Fi. citeturn0search7turn0search12
-4. Cisco, **What is a Network Gateway?** — gateway concepts and gateway/router distinction. citeturn0search16
-5. Michael Kerrisk / man7.org, **Linux/UNIX Sockets Programming** — socket programming concepts including `socket()`, `bind()`, `listen()`, `accept()`, `connect()` and network I/O. citeturn0search1turn0search3
+1. Cisco, **What is Computer Networking?** — networking fundamentals, LAN, WAN, switches, routers, IP and network architecture.
+2. Cisco, **What is a LAN?** — LAN definition and components. 
+3. Cisco, **What is Ethernet?** — Ethernet, IEEE 802.3, MAC addressing and relationship with Wi-Fi. 
+4. Cisco, **What is a Network Gateway?** — gateway concepts and gateway/router distinction.
+5. Michael Kerrisk / man7.org, **Linux/UNIX Sockets Programming** — socket programming concepts including `socket()`, `bind()`, `listen()`, `accept()`, `connect()` and network I/O.
 
 ---
-
-## Instructor Note
-
-A recommended teaching sequence is:
-
-**Network fundamentals → LAN/WAN → Devices → IP addressing → WWW → GUI/CLI → Ethernet/Wi-Fi → Client-server model → C sockets → Network troubleshooting → Mini project**
-
-Students should be encouraged to ask:
-
-> **"What happens to my C program's data after it leaves the computer?"**
-
-That question provides a natural bridge from introductory C programming to computer networks, distributed systems, IoT and engineering applications.
