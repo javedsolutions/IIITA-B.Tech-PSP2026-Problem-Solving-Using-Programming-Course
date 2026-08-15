@@ -1587,7 +1587,7 @@ Students who learn C programming can begin answering these questions through soc
 
 The central idea is:
 
-\[
+$$
 \boxed{
 \text{Engineering Problem}
 \rightarrow
@@ -1601,7 +1601,7 @@ The central idea is:
 \rightarrow
 \text{Tested Solution}
 }
-\]
+$$
 
 Learning networking therefore extends programming from a single computer to **cooperating computers and engineering systems**.
 
