@@ -31,7 +31,7 @@ A computer ultimately executes instructions represented in a form understood by 
 
 A **computer language** provides a formal way to express instructions or computations for a computer.
 
-Computer languages range from very low-level machine code and assembly language to high-level languages that hide many hardware details. citeturn0search8turn0search3
+Computer languages range from very low-level machine code and assembly language to high-level languages that hide many hardware details. 
 
 The three broad levels considered in this unit are:
 
@@ -97,7 +97,7 @@ Computer Languages
     └── Many others
 ```
 
-The terms *high-level* and *low-level* describe relative abstraction from hardware. C is often described as occupying an interesting middle position: it provides high-level programming constructs while retaining substantial control over memory and hardware-oriented operations. citeturn0search20turn0search0
+The terms *high-level* and *low-level* describe relative abstraction from hardware. C is often described as occupying an interesting middle position: it provides high-level programming constructs while retaining substantial control over memory and hardware-oriented operations. 
 
 ---
 
@@ -252,7 +252,7 @@ Examples include:
 - C#
 - Rust
 
-OpenStax describes high-level languages as languages designed to be easier for humans to read, write and understand while abstracting many hardware details. citeturn0search3
+OpenStax describes high-level languages as languages designed to be easier for humans to read, write and understand while abstracting many hardware details.
 
 ---
 
@@ -379,7 +379,7 @@ Therefore, there is **no single universal assembly listing for a C program**.
 
 # 10. High-Level Language Example: C
 
-C was developed at Bell Labs in the early 1970s, with Dennis Ritchie playing the central role in its development. It evolved from earlier languages including B and was designed for systems programming, especially Unix. citeturn0search0turn0search1
+C was developed at Bell Labs in the early 1970s, with Dennis Ritchie playing the central role in its development. It evolved from earlier languages including B and was designed for systems programming, especially Unix. 
 
 C became important because it combines:
 
@@ -392,7 +392,7 @@ C became important because it combines:
 - efficient compiled code,
 - portability across many systems when portable C is used.
 
-The development of C was strongly connected with Unix; Unix was substantially rewritten in C during the early 1970s. citeturn0search1turn0search6
+The development of C was strongly connected with Unix; Unix was substantially rewritten in C during the early 1970s. 
 
 ---
 
@@ -1012,7 +1012,7 @@ C provides a useful balance.
 
 It supports abstractions such as functions and structures while also allowing pointers and low-level operations.
 
-C's design is historically connected to systems programming and Unix, and its ability to map relatively closely to hardware contributed to its importance in systems software. citeturn0search0turn0search2
+C's design is historically connected to systems programming and Unix, and its ability to map relatively closely to hardware contributed to its importance in systems software.
 
 ---
 
@@ -1134,7 +1134,7 @@ Historical examples include:
 - Pascal,
 - C.
 
-FORTRAN emerged in the 1950s for scientific and engineering computation, while COBOL became important for business data processing. citeturn0search8turn0search18
+FORTRAN emerged in the 1950s for scientific and engineering computation, while COBOL became important for business data processing. 
 
 ---
 
@@ -1152,9 +1152,9 @@ C
 C standards and later C-family languages
 ```
 
-C was developed at Bell Labs in the early 1970s. Its historical development is documented in sources such as cppreference and accounts of C's history. citeturn0search1turn0search2
+C was developed at Bell Labs in the early 1970s. Its historical development is documented in sources such as cppreference and accounts of C's history. 
 
-C was standardized through ANSI and later ISO processes, with major standards including C90, C99, C11, C17 and C23. citeturn0search1turn0search13
+C was standardized through ANSI and later ISO processes, with major standards including C90, C99, C11, C17 and C23. 
 
 ---
 
@@ -1216,7 +1216,7 @@ Executable
 Execution
 ```
 
-This is why C is commonly described as a compiled language. citeturn0search13turn0search0
+This is why C is commonly described as a compiled language. 
 
 ---
 
@@ -1799,32 +1799,3 @@ Machine-oriented executable
 
 ---
 
-## Suggested Teaching Sequence
-
-```text
-Computer Languages
-       ↓
-Need for Programming Languages
-       ↓
-Machine Language
-       ↓
-Assembly Language
-       ↓
-Assembler
-       ↓
-High-Level Languages
-       ↓
-Compiler / Interpreter
-       ↓
-C Language
-       ↓
-C Compilation Pipeline
-       ↓
-C Programs + Output
-       ↓
-Engineering Problem Solving
-       ↓
-Practical Exercises
-       ↓
-Mini Project
-```
