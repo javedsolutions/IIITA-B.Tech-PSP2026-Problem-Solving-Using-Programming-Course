@@ -196,7 +196,7 @@ Typical causes include:
 - incorrect use of operators,
 - invalid types or conversions.
 
-GCC distinguishes errors from warnings: errors prevent successful compilation, while warnings identify suspicious or unusual constructs for which compilation may still continue. citeturn0search0
+GCC distinguishes errors from warnings: errors prevent successful compilation, while warnings identify suspicious or unusual constructs for which compilation may still continue. 
 
 ---
 
@@ -392,7 +392,7 @@ GCC provides warning options such as:
 -Werror
 ```
 
-GCC documentation notes that `-Wall` enables a useful collection of warnings, while `-Werror` turns warnings into errors. citeturn0search0turn0search9
+GCC documentation notes that `-Wall` enables a useful collection of warnings, while `-Werror` turns warnings into errors.
 
 A useful learning command is:
 
@@ -1449,7 +1449,7 @@ Warnings can identify:
 - questionable constructs,
 - possible uninitialized values.
 
-GCC documents `-Wall`, `-Wextra`, and related warning controls. citeturn0search0turn0search9
+GCC documents `-Wall`, `-Wextra`, and related warning controls.
 
 During development, some teams also use:
 
@@ -2515,29 +2515,3 @@ A better engineering question is:
 
 ---
 
-## Suggested GitHub Folder Structure
-
-```text
-c-debugging-testing-documentation/
-│
-├── README.md
-├── c_debugging_testing_documentation.md
-│
-├── figures/
-│   ├── 01_build_and_execution_errors.png
-│   ├── 02_debugging_cycle.png
-│   ├── 03_testing_levels.png
-│   ├── 04_test_case_process.png
-│   ├── 05_error_types_comparison.png
-│   ├── 06_debug_tools.png
-│   ├── 07_documentation_cycle.png
-│   └── 08_debugging_decision_tree.png
-│
-└── examples/
-    ├── compiler_error.c
-    ├── linker_error/
-    ├── runtime_error.c
-    └── testing_example.c
-```
-
-This material is designed to be used as a **teaching/reading chapter plus laboratory reference** for Bachelor of Engineering students learning problem solving using C.
