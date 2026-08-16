@@ -2295,22 +2295,3 @@ distinguish logical operators from bitwise operators
 7. ISO/IEC 9899 — C language standard.
 
 ---
-
-# GitHub Folder Structure
-
-```text
-c-operators-precedence-type-conversion/
-│
-├── README.md
-├── c_operators_precedence_type_conversion.md
-│
-└── figures/
-    ├── 01_operator_categories.png
-    ├── 02_relational_logic.png
-    ├── 03_logical_operators.png
-    ├── 04_ternary_operator.png
-    ├── 05_bitwise.png
-    ├── 06_precedence_associativity.png
-    ├── 07_implicit_conversion.png
-    └── 08_explicit_cast.png
-```
