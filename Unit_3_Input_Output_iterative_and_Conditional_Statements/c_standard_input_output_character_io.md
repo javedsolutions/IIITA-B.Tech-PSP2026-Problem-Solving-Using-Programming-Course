@@ -2109,23 +2109,3 @@ This progression gradually develops the student's ability to transform a problem
 
 7. **ISO/IEC 9899 C Standard:** authoritative language specification for C.
 
----
-
-## GitHub Folder Structure
-
-```text
-c-standard-input-output-character-io/
-│
-├── README.md
-├── c_standard_input_output_character_io.md
-│
-└── figures/
-    ├── 01_standard_io_model.png
-    ├── 02_character_input_output.png
-    ├── 03_getchar_buffer.png
-    ├── 04_newline_character.png
-    ├── 05_echo_program.png
-    ├── 06_input_output_functions.png
-    ├── 07_char_loop.png
-    └── 08_complete_example.png
-```
