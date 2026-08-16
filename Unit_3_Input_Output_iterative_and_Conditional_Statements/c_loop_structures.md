@@ -630,18 +630,3 @@ exit()   → terminate entire program
 ```
 
 Loops are fundamental to engineering programming because they support repeated calculations, data acquisition, simulations, searching, numerical methods, and continuous monitoring.
-
-## GitHub Folder Structure
-
-```text
-c-loop-structures/
-├── README.md
-├── c_loop_structures.md
-└── figures/
-    ├── 01_while_flowchart.png
-    ├── 02_do_while_flowchart.png
-    ├── 03_for_flowchart.png
-    ├── 04_break_continue.png
-    ├── 05_loop_comparison.png
-    └── 06_nested_loops.png
-```
