@@ -39,7 +39,7 @@ and
 
 > **Should I implement it this way?**
 
-The ACM Code of Ethics emphasizes contributing to society and human well-being, avoiding harm, being honest and trustworthy, and acting fairly. citeturn0search24turn0search25
+The ACM Code of Ethics emphasizes contributing to society and human well-being, avoiding harm, being honest and trustworthy, and acting fairly.
 
 ![Ethics layers](figures/01_ethics_layers.png)
 
@@ -66,7 +66,7 @@ For programmers, professional ethics includes:
 - quality,
 - continuous learning.
 
-The IEEE and ACM provide professional ethics frameworks for software and computing professionals. The joint IEEE-CS/ACM software engineering framework addresses public welfare, clients and employers, product quality, professional judgment, management, the profession, colleagues and lifelong learning. citeturn0search0turn0search6
+The IEEE and ACM provide professional ethics frameworks for software and computing professionals. The joint IEEE-CS/ACM software engineering framework addresses public welfare, clients and employers, product quality, professional judgment, management, the profession, colleagues and lifelong learning. 
 
 # 3. Why Ethics Matters to C Programmers
 
@@ -130,7 +130,7 @@ Software should be developed with consideration for its effects on people and so
 
 ## 5.2 Avoid Harm
 
-Programmers should identify foreseeable negative consequences and reduce or mitigate them. citeturn0search24
+Programmers should identify foreseeable negative consequences and reduce or mitigate them. 
 
 ## 5.3 Be Honest and Trustworthy
 
@@ -142,11 +142,11 @@ Do not:
 - make misleading technical claims,
 - misrepresent qualifications.
 
-The ACM Code explicitly addresses honesty, transparency and truthful representation. citeturn0search25
+The ACM Code explicitly addresses honesty, transparency and truthful representation. 
 
 ## 5.4 Be Fair
 
-Software and professional behavior should support fair participation and avoid inappropriate discrimination. citeturn0search25
+Software and professional behavior should support fair participation and avoid inappropriate discrimination. 
 
 ## 5.5 Respect Intellectual Property
 
@@ -157,7 +157,7 @@ Respect:
 - trade secrets,
 - licenses,
 - attribution requirements,
-- other creators' contributions. citeturn0search25
+- other creators' contributions. 
 
 # 6. Ethics Is Not the Same as Law
 
@@ -192,7 +192,7 @@ Deadline ↔ Safety
 Performance ↔ Resource use
 ```
 
-CS2023 emphasizes ethical analysis, professional responsibility and consideration of social impacts throughout computing education. citeturn0search3turn0search16
+CS2023 emphasizes ethical analysis, professional responsibility and consideration of social impacts throughout computing education. 
 
 ![Ethical decision process](figures/02_ethical_decision_process.png)
 
@@ -259,7 +259,7 @@ Technology changes continuously. Professional programmers should maintain and im
 - development-tool knowledge,
 - professional knowledge.
 
-CS2023 identifies continuing competence and keeping current with tools, skills and professional frameworks as part of professional development. citeturn0search3
+CS2023 identifies continuing competence and keeping current with tools, skills and professional frameworks as part of professional development.
 
 # 11. Knowing Your Limitations
 
@@ -297,7 +297,7 @@ Preserve required notices
 Attribute where required
 ```
 
-The ACM Code specifically requires computing professionals to respect creators' work and intellectual-property protections. citeturn0search25
+The ACM Code specifically requires computing professionals to respect creators' work and intellectual-property protections. 
 
 ![IP and attribution](figures/05_ip_and_attribution.png)
 
@@ -379,7 +379,7 @@ Security failures can cause:
 
 Security should therefore be considered during design and coding.
 
-CS2023 identifies principles including **least privilege**, **fail-safe defaults**, **complete mediation**, **separation** and **minimizing trust**. citeturn0search5
+CS2023 identifies principles including **least privilege**, **fail-safe defaults**, **complete mediation**, **separation** and **minimizing trust**. 
 
 # 18. Secure C Programming
 
@@ -441,7 +441,7 @@ Least privilege means giving a program only the permissions it needs.
 
 If a C program only needs to read a data file, it should not automatically receive unrestricted system privileges.
 
-Least privilege is also identified in current CS2023 security guidance. citeturn0search5
+Least privilege is also identified in current CS2023 security guidance. 
 
 # 21. Confidentiality and Credentials
 
@@ -590,7 +590,7 @@ Technology can unintentionally create unfair outcomes through:
 - exclusionary design,
 - discriminatory algorithms.
 
-The ACM Code emphasizes fairness, inclusion and avoiding inappropriate discrimination. citeturn0search25
+The ACM Code emphasizes fairness, inclusion and avoiding inappropriate discrimination. 
 
 # 29. Accessibility
 
@@ -619,7 +619,7 @@ Programmers can contribute to sustainability through:
 - responsible data retention,
 - longer software/hardware life.
 
-Environmental sustainability is included in the ACM Code's conception of professional responsibility. citeturn0search24
+Environmental sustainability is included in the ACM Code's conception of professional responsibility. 
 
 # 31. Open Source and Ethical Reuse
 
@@ -1252,38 +1252,8 @@ Ethics is therefore part of what it means to be a competent engineering professi
 
 # References and Further Reading
 
-1. **ACM Code of Ethics and Professional Conduct** — public good, avoiding harm, honesty, fairness and intellectual property. citeturn0search24turn0search25
-2. **IEEE TechEthics — IEEE Frameworks** — IEEE and IEEE-CS/ACM professional ethics frameworks. citeturn0search0
-3. **IEEE Technology Navigator — Ethics** — engineering ethics, public welfare, conflicts of interest, honesty and responsibility. citeturn0search10
-4. **ACM CS2023 — Society, Ethics and Professionalism** — professional ethics, IP, plagiarism and programmer responsibility. citeturn0search3turn0search16
-5. **ACM Software Engineering Guidance** — ethical and professional software engineering responsibilities. citeturn0search11
-
-## Suggested Teaching Sequence
-
-```text
-Ethics
- ↓
-Professional Ethics
- ↓
-Programmer Responsibilities
- ↓
-ACM / IEEE Codes
- ↓
-Honesty & Accountability
- ↓
-IP & Academic Integrity
- ↓
-Privacy & Security
- ↓
-Fairness & Accessibility
- ↓
-Teamwork & Communication
- ↓
-AI-Assisted Programming Ethics
- ↓
-Ethical C Programming
- ↓
-Case Studies
- ↓
-Mini Project
-```
+1. **ACM Code of Ethics and Professional Conduct** — public good, avoiding harm, honesty, fairness and intellectual property.
+2. **IEEE TechEthics — IEEE Frameworks** — IEEE and IEEE-CS/ACM professional ethics frameworks.
+3. **IEEE Technology Navigator — Ethics** — engineering ethics, public welfare, conflicts of interest, honesty and responsibility. 
+4. **ACM CS2023 — Society, Ethics and Professionalism** — professional ethics, IP, plagiarism and programmer responsibility.
+5. **ACM Software Engineering Guidance** — ethical and professional software engineering responsibilities.
