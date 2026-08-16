@@ -66,7 +66,7 @@ These concepts are the foundation for later topics such as:
 - algorithms,
 - data structures.
 
-The C language reference organizes these ideas under concepts such as types, declarations, expressions, statements, initialization and comments. citeturn0search1turn0search4
+The C language reference organizes these ideas under concepts such as types, declarations, expressions, statements, initialization and comments. 
 
 ---
 
@@ -99,7 +99,7 @@ Here:
 'A'     → character constant
 ```
 
-C supports integer, floating and character constants among its literal forms. citeturn0search2
+C supports integer, floating and character constants among its literal forms. 
 
 ---
 
@@ -798,7 +798,7 @@ a = b = 5;
 
 possible.
 
-The assignment operators are part of C's expression syntax. citeturn0search2
+The assignment operators are part of C's expression syntax.
 
 For beginners, however, separate assignments are usually easier to read:
 
@@ -859,7 +859,7 @@ balance = 70
 
 # 28. Arithmetic Expressions
 
-An expression combines operands and operators to produce a computation or value. citeturn0search2
+An expression combines operands and operators to produce a computation or value.
 
 Examples:
 
@@ -1230,7 +1230,7 @@ C includes categories such as:
 - compound statements,
 - selection statements,
 - iteration statements,
-- jump statements. citeturn0search8
+- jump statements. 
 
 ![Statements control program execution](figures/06_statement_flow.png)
 
@@ -1282,7 +1282,7 @@ x = 10;
 
 In introductory programming, students often call both "lines of code," but their language roles are different.
 
-C's formal language rules distinguish declarations from statements. citeturn0search8turn0search10
+C's formal language rules distinguish declarations from statements. 
 
 ---
 
@@ -2442,22 +2442,3 @@ These are the fundamental building blocks from which larger C programs are const
 5. **ISO/IEC 9899 C Standard:** authoritative language specification for C.
 
 ---
-
-## Suggested GitHub Folder Structure
-
-```text
-c-constants-variables-expressions/
-│
-├── README.md
-├── c_constants_variables_expressions.md
-│
-└── figures/
-    ├── 01_program_building_blocks.png
-    ├── 02_variable_memory_model.png
-    ├── 03_data_type_map.png
-    ├── 04_assignment_flow.png
-    ├── 05_expression_evaluation.png
-    ├── 06_statement_flow.png
-    ├── 07_comments_source_code.png
-    └── 08_complete_example.png
-```
