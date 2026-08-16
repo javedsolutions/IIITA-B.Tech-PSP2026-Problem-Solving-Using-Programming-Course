@@ -143,7 +143,7 @@ Important preprocessing capabilities include:
 - generating preprocessing errors with `#error`,
 - implementation-specific controls through `#pragma`.
 
-The preprocessing stage occurs before the actual compilation stage. citeturn0search0
+The preprocessing stage occurs before the actual compilation stage. 
 
 A simplified model is:
 
@@ -218,7 +218,7 @@ Some important directives are:
 | `#error` | Request a preprocessing diagnostic |
 | `#pragma` | Implementation-specific instruction |
 
-The C preprocessor standardizes several of these directives; compiler implementations may additionally provide extensions. citeturn0search0
+The C preprocessor standardizes several of these directives; compiler implementations may additionally provide extensions. 
 
 ---
 
@@ -243,7 +243,7 @@ The exact search rules are implementation-defined, but the conventional distinct
 - `<...>` is normally used for system/standard headers.
 - `"..."` is normally used for headers belonging to the current project.
 
-GCC documents these two forms and their different search behavior. citeturn0search14turn0search6
+GCC documents these two forms and their different search behavior.
 
 ---
 
@@ -300,7 +300,7 @@ time.h
 stdbool.h
 ```
 
-GCC describes header files as files containing C declarations and macro definitions that can be shared among source files. citeturn0search6
+GCC describes header files as files containing C declarations and macro definitions that can be shared among source files. 
 
 ---
 
@@ -328,7 +328,7 @@ This improves:
 - maintainability,
 - reuse.
 
-GCC specifically notes that header files allow shared declarations and macro definitions to be maintained in one place. citeturn0search6
+GCC specifically notes that header files allow shared declarations and macro definitions to be maintained in one place. 
 
 ---
 
@@ -409,7 +409,7 @@ This form is conventionally used for standard/system headers.
 
 Typical compilers search standard include directories for such headers.
 
-The precise search mechanism depends on the implementation and compiler configuration. citeturn0search3turn0search14
+The precise search mechanism depends on the implementation and compiler configuration. 
 
 ---
 
@@ -435,7 +435,7 @@ Other include directories
 
 The exact rules are implementation-defined.
 
-GCC documents that quoted includes typically search the directory containing the current source file before the standard include search locations. citeturn0search14
+GCC documents that quoted includes typically search the directory containing the current source file before the standard include search locations.
 
 ![Angle brackets vs quotes](figures/06_angle_vs_quote.png)
 
@@ -569,7 +569,7 @@ double area = PI * r * r;
 
 uses the macro name.
 
-The preprocessor performs macro replacement before the compiler proper processes the resulting source. citeturn0search0
+The preprocessor performs macro replacement before the compiler proper processes the resulting source. 
 
 ---
 
@@ -889,7 +889,7 @@ A common solution is a **header guard**:
 
 The pattern prevents the contents from being processed repeatedly within the same translation unit.
 
-Header guards are a common technique for avoiding repeated inclusion and recursive inclusion problems. citeturn0search3turn0search6
+Header guards are a common technique for avoiding repeated inclusion and recursive inclusion problems. 
 
 ![Header guard pattern](figures/08_header_guard.png)
 
@@ -1188,7 +1188,7 @@ Compiler
 
 This is why the compiler can see the function declarations from the header while compiling `main.c`.
 
-The inclusion process is specified as source-file inclusion during preprocessing. citeturn0search3turn0search6
+The inclusion process is specified as source-file inclusion during preprocessing. 
 
 ---
 
@@ -1855,7 +1855,7 @@ This is useful for understanding:
 - how conditional compilation changes source,
 - why preprocessing errors occur.
 
-GCC's preprocessor documentation also describes options for examining macro definitions and include directives. citeturn0search11turn0search23
+GCC's preprocessor documentation also describes options for examining macro definitions and include directives. 
 
 ---
 
@@ -2203,9 +2203,9 @@ Write a program using:
 
 to calculate the weight of an object:
 
-\[
+$$ 
 W = mg
-\]
+$$
 
 ---
 
@@ -2241,9 +2241,9 @@ main.c
 
 Implement:
 
-\[
+$$
 V = IR
-\]
+$$
 
 using a function:
 
