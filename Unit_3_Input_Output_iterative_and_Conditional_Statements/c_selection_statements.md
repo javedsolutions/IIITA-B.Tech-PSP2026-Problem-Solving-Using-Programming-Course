@@ -867,20 +867,3 @@ default  → unmatched choice
 ```
 
 Selection statements are essential for translating engineering decision-making into reliable C programs.
-
-## GitHub Folder Structure
-
-```text
-c-selection-statements/
-│
-├── README.md
-├── c_selection_statements.md
-│
-└── figures/
-    ├── 01_simple_if_flowchart.png
-    ├── 02_if_else_flowchart.png
-    ├── 03_switch_flowchart.png
-    ├── 04_selection_comparison.png
-    ├── 05_nested_if_flowchart.png
-    └── 06_switch_break_default.png
-```
